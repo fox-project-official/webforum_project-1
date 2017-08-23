@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/javascript-indonesia/webforum_project-1/issues"
   },
-  "homepage": "https://github.com/javascript-indonesia/webforum_project-1#readme"
+  "homepage": "https://github.com/javascript-indonesia/webforum_project-1#readme",
+  "dependencies": {
+    "webpack": "^3.5.5"
+  }
 }
