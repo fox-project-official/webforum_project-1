@@ -29,6 +29,7 @@
   "homepage": "https://github.com/javascript-indonesia/webforum_project-1#readme",
   "dependencies": {
     "express": "^4.15.4",
+    "mongodb": "^2.2.31",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "webpack": "^3.5.5"
